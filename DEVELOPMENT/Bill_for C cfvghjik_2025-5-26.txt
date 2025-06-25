@@ -1,0 +1,18 @@
+           === WE CARE BEAUTY STORE ===
+	   == INVOICE OF PURCHASE ==
+
+Customer: cfvghjik			Date: 2025-5-26
+Phone Number:1234567890
+------------------------------------------------------------
+	Product				Vitamin C Serum
+	Quantity			34
+	Brand				 Garnier
+	Free				11
+	 Price				Rs. 800
+------------------------------------------------------------
+	Total					27200
+------------------------------------------------------------
+
+Invoice saved as:Bill_for C cfvghjik_2025-5-26.txt
+Total Amount spent RS.27200
+ThankYou for shopping with us!

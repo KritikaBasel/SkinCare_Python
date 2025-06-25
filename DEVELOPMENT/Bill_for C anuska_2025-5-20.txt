@@ -1,0 +1,30 @@
+           === WE CARE BEAUTY STORE ===
+	   == INVOICE OF PURCHASE ==
+
+Customer: anuska			Date: 2025-5-20
+Phone Number:3456789
+------------------------------------------------------------
+	Product				Vitamin C Serum
+	Quantity			10
+	Brand				 Garnier
+	Free				3
+	 Price				Rs. 800
+
+	Product				Sunscreen
+	Quantity			100
+	Brand				 Aqualogica
+	Free				33
+	 Price				Rs. 400
+
+	Product				Skin Cleanser
+	Quantity			20
+	Brand				 Cetaphil
+	Free				6
+	 Price				Rs. 1000
+------------------------------------------------------------
+	Total					20000
+------------------------------------------------------------
+
+Invoice saved as:Bill_for C anuska_2025-5-20.txt
+Total Amount spent RS.68000
+ThankYou for shopping with us!

@@ -1,0 +1,24 @@
+           === WE CARE BEAUTY STORE ===
+	   == INVOICE OF PURCHASE ==
+
+Customer: cfvghbjk			Date: 2025-5-26
+Phone Number:1234567890
+------------------------------------------------------------
+	Product				Sunscreen
+	Quantity			45
+	Brand				 Aqualogica
+	Free				15
+	 Price				Rs. 400
+
+	Product				Vitamin C Serum
+	Quantity			4
+	Brand				 Garnier
+	Free				1
+	 Price				Rs. 800
+------------------------------------------------------------
+	Total					3200
+------------------------------------------------------------
+
+Invoice saved as:Bill_for C cfvghbjk_2025-5-26.txt
+Total Amount spent RS.21200
+ThankYou for shopping with us!
